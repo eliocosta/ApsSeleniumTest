@@ -12,7 +12,7 @@ public class TestClass {
         // Create a new instance of the Firefox driver
         WebDriver driver = new FirefoxDriver();
 
-        driver.get("http://localhost:8081/");
+        driver.get("http://localhost:8080/");
 
 
 
